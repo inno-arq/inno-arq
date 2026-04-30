@@ -68,9 +68,6 @@ del proyecto`
 ---
 
 ## Mallol Arquitectos
-
-**147 personas · 8 direcciones · 7 estudios de Diseño**
-Sede en Panamá · proyectos en LATAM y Caribe · 60+ años de trayectoria
 [mallolarquitectos.com](https://mallolarquitectos.com)
 
 ---

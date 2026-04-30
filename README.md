@@ -1,4 +1,4 @@
-# inno-arq
+# Oficina de innovación
 
 > Oficina interna de innovación y adopción de IA de **Mallol Arquitectos**.
 

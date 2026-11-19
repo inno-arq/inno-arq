@@ -1,5 +1,8 @@
 # Manifiesto
 
+<img alt="Visibilidad" src="https://img.shields.io/badge/perfil-p%C3%BAblico-blue">
+<img alt="Organización" src="https://img.shields.io/badge/Mallol%20Arquitectos-Oficina%20de%20Innovaci%C3%B3n-black">
+
 **Adopción de IA con criterio. Innovación como motor, no como decoración.**
 
 ---
@@ -102,3 +105,7 @@ Ese es nuestro trabajo.
 ---
 
 *Innovación con propósito · ejecución con criterio · IA que opera, no que ilumina demos.*
+
+## Propietario
+
+Oficina de Innovación de Mallol. Este es el README del perfil de la organización; los repositorios de sistemas son privados y de uso interno.
